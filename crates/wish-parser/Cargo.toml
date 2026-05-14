@@ -1,0 +1,10 @@
+[package]
+name = "wish-parser"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+wish-lexer.workspace = true
+thiserror.workspace = true
